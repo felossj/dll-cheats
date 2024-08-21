@@ -9,12 +9,13 @@ you cant convert loaders like toad client.
 - exodus.codes aim assist
 - koid client
 - slinky_loader converted to a dll (password: slinky)
+- dope v2 (exe v1 didnt open)
 ## cheats that doesnt work
 - toad client
 - eternal aim assist
 - crypt client
 - akira client (it was a virus :skull:. it doesnt open and uses 25% cpu)
 - exelon clicker
-- 
+- too much clients. i lost the count lol
 
   

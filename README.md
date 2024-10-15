@@ -17,8 +17,11 @@ you cant convert loaders like toad client.
 - toad client
 - eternal aim assist
 - crypt client
-- akira client (it was a virus :skull:. it doesnt open and uses 25% cpu)
+- akira client
 - exelon clicker
+- asterion client
+- enthapy client
+- most memory hacking clients
 - too much clients. i lost the count lol
 
   

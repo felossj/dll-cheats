@@ -21,6 +21,7 @@ you cant convert loaders like toad client.
 - exelon clicker
 - asterion client
 - enthapy client
+- sapphire lite clicker
 - most memory hacking clients
 - too much clients. i lost the count lol
 
